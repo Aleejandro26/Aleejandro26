@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Josue Alejandro Castro Laguna<br>A passionate backend web developer from Nicaragua<br><br>🧑‍💻Continuous Learning<br>🤝Teamwork<br>🍃Verbal communication<br>🚀Attention to detail<br>📚Autonomy in learning<br>🖊️Written communication
+Hi 👋, I'm Josue Alejandro Castro Laguna<br>A passionate backend developer from Nicaragua<br><br>🧑‍💻Continuous Learning<br>🤝Teamwork<br>🍃Verbal communication<br>🚀Attention to detail<br>📚Autonomy in learning<br>🖊️Written communication
 
 
 ## 🌐 Socials:
