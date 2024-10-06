@@ -52,18 +52,36 @@
 
 ###
 
-# 📊 GitHub Stats:
+<h3 align="left">📊 GitHub Stats</h3>
+
+###
+
 ![](https://github-readme-stats.vercel.app/api?username=Aleejandro26&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aleejandro26&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleejandro26&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+### 
+
+<h3 align="left">🏆 GitHub Trophies</h3>
+
+###
+
 ![](https://github-profile-trophy.vercel.app/?username=Aleejandro26&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### 
+
+<h3 align="left">✍️ Random Dev Quote</h3>
+
+###
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
+### 
+
+<h3 align="left">🔝 Top Contributed Repo</h3>
+
+###
+
 ![](https://github-contributor-stats.vercel.app/api?username=Aleejandro26&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 ---
