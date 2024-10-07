@@ -1,5 +1,5 @@
 # 💫 About Me:
-### My name is Josué Alejandro Castro Laguna and I'm a passionate junior backend developer from Nicaragua 🇳🇮
+My name is Josué Alejandro Castro Laguna and I'm a passionate junior backend developer from Nicaragua 🇳🇮
 <br>🧑‍💻Continuous Learning<br>🤝Teamwork<br>🍃Verbal communication<br>🚀Attention to detail<br>📚Autonomy in learning<br>🖊️Written communication
 
 
