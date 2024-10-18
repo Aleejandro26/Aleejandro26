@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Josué Alejandro Castro Laguna and I'm a passionate junior backend web developer from Nicaragua 🇳🇮 <br><br>👾 I have a great passion for programming and developing efficient solutions. I specialize in JavaScript and have been working with Node.js and Express to build robust and scalable applications 
+My name is Josué Alejandro Castro Laguna and I'm a passionate junior backend web developer from Nicaragua 🇳🇮 <br><br>👾 I have a great passion for programming and developing efficient solutions. I specialize in JavaScript and have been working with Node.js and Express to build robust and scalable applications. I also build robust APIs and handle databases with ease, among other things <br><br>🗂️ I love to learn and I'm always looking for new technologies and best practices to improve my skills
 
 # 💪 Skills:
 💻Continuous Learning<br>🤝Teamwork<br>🍃Verbal communication<br>🚀Attention to detail<br>📚Autonomy in learning<br>🖊️Written communication
