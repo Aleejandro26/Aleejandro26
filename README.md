@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Josué Alejandro Castro Laguna and I'm a passionate junior web developer from Nicaragua and i have a great passion for programming and developing efficient solutions. I specialize in JavaScript with a greater emphasis on backend development. <br><br>📧 My email is: `josuealejandro800@gmail.com`
+My name is Josué Alejandro Castro Laguna and I'm a passionate junior web developer from Nicaragua and i have a great passion for programming and developing efficient solutions. I specialize with a greater emphasis on backend development. <br><br>📧 My email is: `josuealejandro800@gmail.com`
 
 # 💪 Skills:
 💻Continuous Learning<br>🤝Teamwork<br>🍃Verbal communication<br>🚀Attention to detail<br>📚Autonomy in learning<br>🖊️Written communication
