@@ -4,6 +4,7 @@
 My name is Josué Alejandro Castro Laguna and I'm a passionate junior web developer from Nicaragua 🇳🇮 and i have a great passion for programming and developing efficient solutions. I specialize with a greater emphasis on backend development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br><br>📧 My email is: `josuealejandro800@gmail.com` <br><br><p align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>If you can imagine it, you can program it!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /></p>
 
 # 💪 Skills:
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 💻 Continuous Learning<br>🤝 Teamwork<br>🍃 Verbal communication<br>🚀 Attention to detail<br>📚 Autonomy in learning<br>🖊️ Written communication
 
 # 💻 Tech Stack:
@@ -51,9 +52,6 @@ My name is Josué Alejandro Castro Laguna and I'm a passionate junior web develo
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aleejandro26&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
-### 🐍 Contribution Snake 
-![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aleejandro26&icon=1&color=3)](https://visitcount.itsvg.in)
