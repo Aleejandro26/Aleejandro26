@@ -1,7 +1,6 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 # 💫 About Me:
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 My name is Josué Alejandro Castro Laguna and I'm a passionate junior web developer from Nicaragua 🇳🇮 and i have a great passion for programming and developing efficient solutions. I specialize with a greater emphasis on backend development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br><br>📧 My email is: `josuealejandro800@gmail.com` <br><br><p align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>If you can imagine it, you can program it!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /></p>
 
 # 💪 Skills:
