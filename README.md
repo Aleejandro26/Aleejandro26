@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
-</p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 # 💫 About Me:
 My name is Josué Alejandro Castro Laguna and I'm a passionate junior web developer from Nicaragua 🇳🇮 and i have a great passion for programming and developing efficient solutions. I specialize with a greater emphasis on backend development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br><br>📧 My email is: `josuealejandro800@gmail.com` <br><br><p align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>If you can imagine it, you can program it!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /></p>
