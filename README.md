@@ -52,6 +52,9 @@ My name is Josué Alejandro Castro Laguna and I'm a passionate junior web develo
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aleejandro26&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
+### 🐍 Contribution Snake 
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Aleejandro26&icon=1&color=3)](https://visitcount.itsvg.in)
 
