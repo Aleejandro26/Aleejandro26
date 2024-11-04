@@ -1,10 +1,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 # 💫 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-🇳🇮 I'm Josué Castro a passionate junior web developer from Nicaragua<br>👨‍💻  I specialize with a greater emphasis on JavaScript<br>😐 I have a love/hate relationship with programming<br>🌱 I’m currently learning web application development (MERN)<br>🤔 I’m looking for help with Data Structures and Algorithms <br>💬 Ask me about technology and artificial intelligence<br>⚡ Fun fact: i am fascinated by video games such as Star Wars, Dungeons & Dragons, Dark Souls and The Elder Scrolls 
-
-## 📬 Contact me <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" />
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+🇳🇮 I'm Josué Castro a passionate junior web developer from Nicaragua<br>👨‍💻  I specialize with a greater emphasis on JavaScript<br>😐 I have a love/hate relationship with programming<br>🌱 I’m currently learning web application development (MERN)<br>🤔 I’m looking for help with Data Structures and Algorithms <br>📬 My email is `josuealejandro800@gmail.com`<br>⚡ Fun fact: i am fascinated by video games such as Star Wars, Dungeons & Dragons, Dark Souls and The Elder Scrolls 
 
 # 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 ### Programming languages
