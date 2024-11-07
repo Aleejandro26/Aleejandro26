@@ -19,8 +19,9 @@ My name is Josué Alejandro Castro Laguna and i'm a Jr. Back-end Web Developer f
 ### OS & Dev tools
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge) ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge) ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge) ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge) ![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge) ![nvm Badge](https://img.shields.io/badge/nvm-F4DD4B?logo=nvm&logoColor=000&style=for-the-badge) ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 
-# 📊 GitHub Stats <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25">
+# 🔥 My Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aleejandro26&theme=monokai&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleejandro26&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
