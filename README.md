@@ -7,9 +7,9 @@
 # 📊 GitHub Stats <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25">
 <p align="center">
   ![](https://github-readme-stats.vercel.app/api?username=Aleejandro26&theme=algolia&hide_border=false&include_all_commits=true&count_private=true) 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Aleejandro26&theme=algolia&hide_border=false)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleejandro26&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aleejandro26&theme=algolia&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleejandro26&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
 ![](https://github-profile-trophy.vercel.app/?username=Aleejandro26&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
