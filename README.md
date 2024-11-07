@@ -9,8 +9,6 @@ My name is Josué Alejandro Castro Laguna and i'm a Jr. Back-end Web Developer f
 # 🔥 My Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aleejandro26&theme=monokai&hide_border=false) &nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleejandro26&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-|  |
-|---|
-| [![](https://visitcount.itsvg.in/api?id=Aleejandro26&icon=1&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Aleejandro26&icon=1&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
