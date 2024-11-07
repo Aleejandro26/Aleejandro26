@@ -1,5 +1,5 @@
 # Hey 👋 What's up? <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-My name is Josué Alejandro Castro Laguna and i'm a Junior Web Developer from Nicaragua 🇳🇮
+My name is Josué Alejandro Castro Laguna and i'm a Web Developer from Nicaragua 🇳🇮
 ### About me
 👨‍💻  I specialize with a greater emphasis on JavaScript<br>🌱 I’m currently learning web application development<br>🤔 I’m looking for help with Data Structures and Algorithms <br>📬 My email is `josuealejandro800@gmail.com`<br>⚡ Fun fact: I like video games like Dark Souls and Dungeons & Dragons. I love the Star Wars universe and watching anime.
 
