@@ -1,4 +1,5 @@
-# 💫 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+# 👋 Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### About Me
 👨‍💻  I specialize with a greater emphasis on JavaScript<br>🌱 I’m currently learning web application development<br>🤔 I’m looking for help with Data Structures and Algorithms <br>📬 My email is `josuealejandro800@gmail.com`<br>⚡ Fun fact: i am fascinated by video games such as Star Wars, Dungeons & Dragons, Dark Souls and The Elder Scrolls 
 
 # 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
