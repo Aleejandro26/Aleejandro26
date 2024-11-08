@@ -1,7 +1,7 @@
 # Hey 👋 What's up? <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-My name is Josué Alejandro Castro Laguna and i'm a Web Developer from Nicaragua 🇳🇮
+My name is Josué Alejandro Castro Laguna and i'm a Junior Web Developer with great focus and emphasis on JavaScript ☕
 ### About me
-👨‍💻  I specialize with a greater emphasis on Backend<br>🌱 I’m currently learning web application development<br>🔭 I’m looking for help with Data Structures and Algorithms <br>📬 My email is `josuealejandro800@gmail.com`<br>⚡ Fun fact: I like video games like Dark Souls and Dungeons & Dragons. I love the Star Wars universe and watching anime.
+🔭 I'm currently working on personal projects.<br>🧑‍🤝‍🧑 I'm looking to collaborate on projects where I can perform efficiently and gain more experience.<br>🤝 I'm looking for help Good practices and development principles.<br>💬 Ask me about artificial intelligence, science fiction or things related to world of warcraft LOl<br>⚡ Fun fact: I like video games like Dark Souls and Dungeons & Dragons. I love the Star Wars universe and watching anime.
 
 # 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 ### Programming Languages
