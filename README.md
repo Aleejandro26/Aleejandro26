@@ -15,7 +15,7 @@ My name is Josué Castro and i'm a Junior Fullstack Developer with great focus a
 ### Devops
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ### Backend as a Service(BaaS)
-![Firebase](https://img.shields.io/badge/Firebase-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=yellow) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=yellow)
 ### Deployment
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Railway](https://img.shields.io/badge/Railway-%230B0D0E?style=for-the-badge&logo=railway)
 ### OS & Dev Tools
