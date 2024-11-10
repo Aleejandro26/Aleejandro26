@@ -33,7 +33,7 @@ My name is Josué Castro and i'm a Junior Fullstack Developer with great focus a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" />
   <img width="12 /">
   
-  [![My Skills](https://skillicons.dev/icons?i=vite,prisma,expressjs&theme=dark&perline=15)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=expressjs&theme=dark&perline=15)](https://skillicons.dev)
 </div>
 
 ### Database
