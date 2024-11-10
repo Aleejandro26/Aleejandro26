@@ -19,26 +19,7 @@ My name is Josué Castro and i'm a Junior Fullstack Developer with great focus a
 ### Deployment
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Railway](https://img.shields.io/badge/Railway-%230B0D0E?style=for-the-badge&logo=railway)
 ### OS & Dev Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" />
-  <img width="12 /">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40" />
-  <img width="12 /">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" />
-  <img width="12 /">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="40" />
-  <img width="12 /">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="40" />
-  <img width="12 /">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" />
-  <img width="12 /">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" />
-  <img width="12 /">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" height="40" />
-  <img width="12 /">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" />
-  <img width="12 /">
-</div>
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-%230E353D?style=for-the-badge&logo=gnubash&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-%23000000?style=for-the-badge&logo=markdown&logoColor=white) ![npm](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-%23FF7139?style=for-the-badge&logo=firefox&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23147EFB?style=for-the-badge&logo=VS%20Code&logoColor=white) ![TablePlus](https://img.shields.io/badge/TablePlus-%23FABF15?style=for-the-badge&logo=TablePLus&logoColor=white)
 
 # 🔥 My Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 ![](https://github-readme-stats.vercel.app/api?username=Aleejandro26&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
