@@ -72,11 +72,7 @@ My name is Josué Castro and i'm a Junior Fullstack Developer with great focus a
   <img width="12 /">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40" />
   <img width="12 /">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" />
-  <img width="12 /">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" />
-  <img width="12 /">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="40" />
   <img width="12 /">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="40" />
   <img width="12 /">
@@ -87,8 +83,6 @@ My name is Josué Castro and i'm a Junior Fullstack Developer with great focus a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" />
   <img width="12 /">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" height="40" />
-  <img width="12 /">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" height="40" />
   <img width="12 /">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" />
   <img width="12 /">
