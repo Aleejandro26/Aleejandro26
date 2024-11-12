@@ -1,5 +1,5 @@
 # Hey 👋 What's up? <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-My name is Josué Castro and i'm a Junior Fullstack Developer with great focus and emphasis on JavaScript ☕
+My name is Josué Castro and i'm Junior Fullstack Web Developer with great focus and emphasis on JavaScript ☕
 ### About me
 🔭 I'm currently working on personal projects.<br>🧑‍🤝‍🧑 I'm looking to collaborate on projects where I can perform efficiently and gain more experience.<br>🤝 I'm looking for help Good practices and development principles.<br>💬 Ask me about artificial intelligence, science fiction or things related to world of warcraft or The Elder Scrolls LOl<br>⚡ Fun fact: I like video games like Dark Souls and Dungeons & Dragons. I love the Star Wars universe and watching anime.
 
