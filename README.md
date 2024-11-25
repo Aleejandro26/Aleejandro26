@@ -1,5 +1,5 @@
 # Hey 👋 What's up? <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-My name is Josué Castro and i'm Junior Back-End Web Developer ☕
+My name is Josué Castro and i'm Junior Web Developer ☕
 ### About me
 🔭 I'm currently working on personal projects (I'm student).<br>🧑‍🤝‍🧑 I'm looking to collaborate on projects where I can perform efficiently and gain more experience.<br>🤝 I'm looking for help Good practices and development principles.<br>💬 Ask me about artificial intelligence, science fiction or things related to world of warcraft or The Elder Scrolls LOl<br>⚡ Fun fact: I like video games like Dark Souls and Dungeons & Dragons. I love the Star Wars universe and watching anime.
 
