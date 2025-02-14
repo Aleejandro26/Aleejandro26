@@ -1,7 +1,5 @@
 # Hey 👋 What's up? <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 I'm Alejandro Laguna (he/him) - i'm junior fullstack developer and university graduate. I'm interested in development and build web applications. I work on random projects in my free time ☕
-### About me
-🔭 I'm currently working on personal projects.<br>🧑‍🤝‍🧑 I'm looking to collaborate on projects where I can perform efficiently and gain more experience.<br>🤝 I'm looking for help Good practices and development principles.<br>💬 Ask me about artificial intelligence, science fiction or things related to world of warcraft or The Elder Scrolls LOl<br>⚡ Fun fact: I like video games like Dark Souls and Dungeons & Dragons. I love the Star Wars universe and watching anime.
 
 # 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,materialui,javascript,typescript,npm,firebase,angular,git,github,nodejs,expressjs,mongodb,postgresql,prisma,docker,vscode,postman,netlify,wordpress,markdown&theme=dark&perline=15)](https://skillicons.dev)
