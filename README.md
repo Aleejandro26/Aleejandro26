@@ -5,9 +5,11 @@ My name is Alejandro Laguna (he/him), and I'm a Junior web application developer
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,materialui,javascript,typescript,git,github,githubactions,webpack,npm,yarn,react,vite,redux,jest,graphql,nodejs,expressjs,mongodb,postgresql,prisma,firebase,docker,netlify,aws&theme=dark&perline=15)](https://skillicons.dev)
           
 # 🔥 My Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-![](https://github-readme-stats.vercel.app/api?username=Aleejandro26&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aleejandro26&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleejandro26&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+          ![](https://github-readme-stats.vercel.app/api?username=Aleejandro26&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+          ![](https://github-readme-streak-stats.herokuapp.com/?user=Aleejandro26&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleejandro26&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)      
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aleejandro26&icon=3&color=3)](https://visitcount.itsvg.in)
