@@ -1,5 +1,5 @@
 # Hey 👋 What's up? <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-🔭 I´m currently working on personal projects<br>🌱 I´m currently learning Good practices in code<br>💬 Ask me about development of web applications and LOL video games
+🖥️ Web application developer<br>☕ I like JavaScript<br>🚴 Running and cycling<br>💬 Ask me about development of web applications and LOL video games
 
 # 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 <div align="left">
