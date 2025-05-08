@@ -1,3 +1,5 @@
+<img src="https://www.webdesignacademy.co.za/wp-content/uploads/2022/10/javascript-course-gauteng-banner.jpg" alt="Banner" width="800">
+
 # Hey 👋 What's up? <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 🖥️ Web application developer<br>☕ I like JavaScript<br>🚴 Running and cycling<br>💬 Ask me about artificial intelligence and LOL video games
 
