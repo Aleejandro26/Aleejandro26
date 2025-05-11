@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQFwzAUReJbVlg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1672221131784?e=2147483647&v=beta&t=6LI-5Bn-Zb1NLdEjDzXgz3ladBFUK8CYG83_wDvpKDA" alt="Banner" width="800">
+<img src="https://www.webdesignacademy.co.za/wp-content/uploads/2022/10/javascript-course-gauteng-banner.jpg" alt="Banner" width="800">
 
 # Hey 👋 What's up? <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 🖥️ Web application developer<br>🐧 Linux enthusiast<br>🚴 Running and cycling<br>💬 Ask me about artificial intelligence and LOL video games<br>🌱 I'm currently learning about clean code.
