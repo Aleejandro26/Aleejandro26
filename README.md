@@ -43,7 +43,7 @@
           <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" height="50" /> 
           <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-line.svg" height="50" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" height="50" />
           <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="50" /> 
           <img width="12" />
