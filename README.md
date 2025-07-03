@@ -1,4 +1,4 @@
-<img src="https://www.webdesignacademy.co.za/wp-content/uploads/2022/10/javascript-course-gauteng-banner.jpg" alt="Banner" width="800">
+<img src="https://i.pinimg.com/originals/67/51/e8/6751e887776f1f70640b57cdbea7d5d2.jpg" alt="Banner" width="800">
 
 # Hey 👋 What's up? <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 I'm Aleejandro26 (he/him) - I'm have a degree in information systems engineering and specialize in web application development with JavaScript. I'm interested in development, video games and topics related to artificial intelligence. 
