@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/67/51/e8/6751e887776f1f70640b57cdbea7d5d2.jpg" alt="Banner" width="800">
 
-# Hey 👋 What's up? 
+# console.log("Hey 👋 What's up?");
 I'm Aleejandro26 (he/him) - I'm have a degree in information systems engineering and specialize in web application development with JavaScript. I'm interested in development, video games and topics related to artificial intelligence. 
 
 # 💻 I code with 
@@ -10,7 +10,7 @@ I'm Aleejandro26 (he/him) - I'm have a degree in information systems engineering
 ![](https://github-readme-stats.vercel.app/api?username=Aleejandro26&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Aleejandro26&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleejandro26&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+  
 ---
 [![](https://visitcount.itsvg.in/api?id=Aleejandro26&icon=0&color=0)](https://visitcount.itsvg.in)
 
