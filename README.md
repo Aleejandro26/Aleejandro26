@@ -8,10 +8,10 @@ I'm Aleejandro26 (he/him) - I'm have a degree in information systems engineering
 
 # 📊 GitHub Stats
 <div align="center">
-  
-![](https://nirzak-streak-stats.vercel.app/?user=Aleejandro26&theme=monokai&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleejandro26&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Aleejandro26&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Aleejandro26&theme=monokai&hide_border=false" height="180" style="margin: 0 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleejandro26&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" style="margin: 0 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aleejandro26&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" height="180" style="margin: 0 10px;" />
 
 </div>
   
