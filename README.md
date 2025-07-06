@@ -8,6 +8,7 @@ I'm Aleejandro26 (he/him) - I'm have a degree in information systems engineering
 
 # 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=Aleejandro26&theme=monokai&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Aleejandro26&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
   
 ---
 [![](https://visitcount.itsvg.in/api?id=Aleejandro26&icon=0&color=0)](https://visitcount.itsvg.in)
