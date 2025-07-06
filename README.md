@@ -3,7 +3,7 @@
 # console.log("Hey 👋 What's up?");
 I'm Aleejandro26 (he/him) - I'm have a degree in information systems engineering and specialize in web application development with JavaScript. I'm interested in development, video games and topics related to artificial intelligence. 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josue-lagu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Josh_Seeker23) 
 
 # 💻 I code with 
