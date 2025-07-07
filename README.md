@@ -14,15 +14,6 @@ I'm Aleejandro26 (he/him) - I'm have a degree in information systems engineering
 ![](https://nirzak-streak-stats.vercel.app/?user=Aleejandro26&theme=monokai&hide_border=false)
 
 </div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aleejandro26&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aleejandro26&limit=5&theme=dark&combine_all_yearly_contributions=true)
   
 ---
 [![](https://visitcount.itsvg.in/api?id=Aleejandro26&icon=0&color=0)](https://visitcount.itsvg.in)
