@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/67/51/e8/6751e887776f1f70640b57cdbea7d5d2.jpg" alt="Banner" width="800">
+<img src="file:///home/sanji26onigiri/Im%C3%A1genes/javascript-course-gauteng-banner.jpg" alt="Banner" width="800">
 
 # console.log("Hey 👋 What's up?");
 I'm Aleejandro26 (he/him) - I'm have a degree in information systems engineering and specialize in web application development with JavaScript. I'm interested in development, video games and topics related to artificial intelligence. 
