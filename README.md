@@ -2,7 +2,7 @@
 My name is Joshua Castro and I'm a junior computer programmer from Nicaragua 
 
 ## About me
-✨ Creating bugs since 2024 Lol<br>📚 I'm currently learning I am  currently learning about clean code, clean architecture and and agile software development<br>🎯 Goals: I successfully completed my career as an information systems engineer, specializing in the area of IT development<br>🎲 Fun fact: I like video games and almost everything related to Star Wars
+✨ Creating bugs since 2024 Lol<br>📚 I'm currently learning about clean code, clean architecture and and agile software development<br>🎯 Goals: I successfully completed my career as an information systems engineer, specializing in the area of IT development<br>🎲 Fun fact: I like video games and almost everything related to Star Wars
 
 # 💻 I code with 
 ###
