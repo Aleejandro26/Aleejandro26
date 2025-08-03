@@ -46,12 +46,6 @@ My name is Joshua Castro and I'm a junior computer programmer from Nicaragua
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="microsoftpowerbi logo"  />
   <img width="12" />
   <img src="https://static.wikia.nocookie.net/logopedia/images/4/44/Microsoft_Power_Apps_%282020%29.svg/revision/latest?cb=20200929195935" height="40" alt="microsoftpowerapps"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
 </div>
 
 ###
