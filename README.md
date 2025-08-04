@@ -33,7 +33,7 @@ My name is Joshua Castro and I'm a junior computer programmer from Nicaragua
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://static.wikia.nocookie.net/logopedia/images/4/44/Microsoft_Power_Apps_%282020%29.svg/revision/latest?cb=20200929195935" height="40" alt="microsoftpowerapps"  />
 </div>
 
 ### Tools
@@ -43,9 +43,9 @@ My name is Joshua Castro and I'm a junior computer programmer from Nicaragua
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="microsoftpowerbi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://static.wikia.nocookie.net/logopedia/images/4/44/Microsoft_Power_Apps_%282020%29.svg/revision/latest?cb=20200929195935" height="40" alt="microsoftpowerapps"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="microsoftpowerbi logo"  />
 </div>
 
 ###
