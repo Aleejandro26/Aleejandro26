@@ -45,7 +45,7 @@ My name is Joshua Castro and I'm a junior computer programmer from Nicaragua
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://commons.wikimedia.org/wiki/File:PuTTY_Icon.svg" height="40" alt="putty logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/PuTTY.svg" height="40" alt="putty logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="microsoftpowerbi logo"  />
 </div>
