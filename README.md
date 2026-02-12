@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Alejandro 26 and I'm a web developer from Nicaragua</p>
+<p align="left">My name is Alejandro Laguna and I'm a full-stack web developer from Nicaragua</p>
 
 ###
 
